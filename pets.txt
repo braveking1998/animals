@@ -4,3 +4,5 @@ Chickens
 Cows
 Horses
 Sheep
+Donkeys
+Goats
