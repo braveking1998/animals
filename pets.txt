@@ -2,3 +2,5 @@ Dogs
 Cats
 Chickens
 Cows
+Horses
+Sheep
